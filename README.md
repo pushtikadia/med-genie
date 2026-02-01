@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![GSSoC'25](https://img.shields.io/badge/GSSoC-2025-orange)
+![GSSoC'26](https://img.shields.io/badge/GSSoC-2026-orange)
 ![Open Source](https://img.shields.io/badge/Open--Source-Yes-brightgreen)
 ![Live](https://img.shields.io/badge/Live-Website-blue)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen)
